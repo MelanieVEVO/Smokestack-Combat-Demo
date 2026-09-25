@@ -1,3 +1,2 @@
-2026/09/21-15:49:14.523 3700 Reusing MANIFEST C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/21-15:49:14.528 3700 Recovering log #3
-2026/09/21-15:49:14.530 3700 Reusing old log C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/09/25-15:29:03.139 23a8 Creating DB C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/09/25-15:29:03.174 23a8 Reusing MANIFEST C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001

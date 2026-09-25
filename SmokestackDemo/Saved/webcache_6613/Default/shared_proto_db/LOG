@@ -1,3 +1,2 @@
-2026/09/21-15:49:16.167 6808 Reusing MANIFEST C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
-2026/09/21-15:49:16.167 6808 Recovering log #3
-2026/09/21-15:49:16.167 6808 Reusing old log C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\shared_proto_db/000003.log 
+2026/09/25-15:29:05.884 2cb4 Creating DB C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\shared_proto_db since it was missing.
+2026/09/25-15:29:05.910 2cb4 Reusing MANIFEST C:\Users\MelvBolo\Smokestack-Combat-Demo\SmokestackDemo\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001

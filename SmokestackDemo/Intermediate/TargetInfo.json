@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SmokestackDemo",
+			"Path": "..\\Source\\SmokestackDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SmokestackDemoEditor",
+			"Path": "..\\Source\\SmokestackDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

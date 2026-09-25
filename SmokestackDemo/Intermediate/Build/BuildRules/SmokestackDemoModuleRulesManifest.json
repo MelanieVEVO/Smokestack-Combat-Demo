@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\MelvBolo\\Smokestack-Combat-Demo\\SmokestackDemo\\Source\\SmokestackDemo\\SmokestackDemo.Build.cs",
+		"C:\\Users\\MelvBolo\\Smokestack-Combat-Demo\\SmokestackDemo\\Source\\SmokestackDemo.Target.cs",
+		"C:\\Users\\MelvBolo\\Smokestack-Combat-Demo\\SmokestackDemo\\Source\\SmokestackDemoEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

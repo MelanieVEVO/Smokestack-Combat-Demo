@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\melvbolo\\smokestack-combat-demo\\smokestackdemo\\source\\smokestackdemo\\smokestackdemo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\melvbolo\\smokestack-combat-demo\\smokestackdemo\\intermediate\\build\\win64\\x64\\smokestackdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\melvbolo\\smokestack-combat-demo\\smokestackdemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\smokestackdemo\\definitions.smokestackdemo.h",
+            "c:\\users\\melvbolo\\smokestack-combat-demo\\smokestackdemo\\source\\smokestackdemo\\smokestackdemo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
