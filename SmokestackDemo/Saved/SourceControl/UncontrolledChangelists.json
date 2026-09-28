@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/SmokestackCombatDemo/PlayerBlueprints/WBP_AimSlashPreview.uasset",
-				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/Input/IMC_AimAndSlash.uasset"
 			]
 		}
 	]
