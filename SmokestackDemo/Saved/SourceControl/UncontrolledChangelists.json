@@ -7,7 +7,13 @@
 			"files": [
 				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/SmokestackCombatDemo/PlayerBlueprints/WBP_AimSlashPreview.uasset",
 				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/Input/IMC_AimAndSlash.uasset"
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/Input/IMC_AimAndSlash.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/SmokestackCombatDemo/PlayerBlueprints/WBP_CooldownBar.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/LY/YHGL200LK8OXKE7MJVSOT1.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/SE/8Y3VMW41Q87KXCC50J55PD.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/SmokestackCombatDemo/EnemyBluePrint/BP_Enemy.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/SmokestackCombatDemo/EnemyBluePrint/M_Weakspot.uasset",
+				"C:/Users/MelvBolo/Smokestack-Combat-Demo/SmokestackDemo/Content/SmokestackCombatDemo/EnemyBluePrint/M_Armor.uasset"
 			]
 		}
 	]
